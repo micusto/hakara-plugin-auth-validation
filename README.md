@@ -1,0 +1,1 @@
+# hakara-plugin-auth-validation
